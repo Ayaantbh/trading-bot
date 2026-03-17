@@ -1,0 +1,9 @@
+numpy
+pandas
+yfinance
+requests
+fastapi
+uvicorn[standard]
+python-dotenv
+slowapi
+jinja2
